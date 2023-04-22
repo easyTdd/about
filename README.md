@@ -1,2 +1,2 @@
-# about
-Document about easyTdd tool
+# EasyTdd
+This page is the home page for the easyTdd Visual Studio extension, at least for now. I found it quickest to just create a repository and provide a readme file. So, what is easyTdd? It is a tool that makes test-driven development easier. At the beginning of doing TDD, I found it awkward that I needed to produce more code for tests than for actual production code. It was also awkward that I had to spend more time writing test code than production code. I created a couple of code generation scripts that improved performance, but they were not comfortable to work with. That is how easyTdd was born. The tool is still in its early stages and is being developed iteratively. 
